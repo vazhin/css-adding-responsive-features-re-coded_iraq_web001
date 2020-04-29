@@ -26,6 +26,7 @@ p, address {
 
 figure {
   margin: 0 0 10px;
+  /*width: 100%;*/
 }
 
 figcaption {
